@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @oitstudent1
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning at the oregon institute of technology
